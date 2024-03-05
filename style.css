@@ -1,0 +1,26 @@
+
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+.anchorTag{
+    color: rgb(52, 127, 156);
+    cursor: pointer;
+    
+}
+.anchorTag:hover{
+    color: red;
+}
+.rootChild{
+    display: flex;
+    flex-direction: column;
+   gap: 4vh;
+   margin: 2vw;
+    
+}
+.rootChild h1{
+    margin-bottom: 1vw;
+
+}
